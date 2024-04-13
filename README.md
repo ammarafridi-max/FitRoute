@@ -1,12 +1,13 @@
 # FitRoute - Object-Oriented Programming (OOP) Project
 
-Identify a problem which can be solved using object-oriented programming.
-Create a flowchart to illustrate the problem and solution.
+## Identify a problem which can be solved using object-oriented programming.
 
-Create a defined user requirements document.
+## Create a flowchart to illustrate the problem and solution.
 
-Produce a software development plan from a system design.
+## Create a defined user requirements document.
 
-Develop and deploy a software solution to solve the problem.
+## Produce a software development plan from a system design.
 
-Evaluate the software against business and user requirements
+## Develop and deploy a software solution to solve the problem.
+
+## Evaluate the software against business and user requirements
